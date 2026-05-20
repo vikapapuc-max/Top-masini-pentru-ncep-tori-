@@ -1,5 +1,5 @@
 # Top-masini-pentru-ncep-tori-
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
